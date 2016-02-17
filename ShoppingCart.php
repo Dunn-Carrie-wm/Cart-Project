@@ -55,8 +55,15 @@ try {
         </div>
     </div>
 </div>
+<div id="faketable">
+<p style="margin-left: 20%">Product</p>
+<p style="margin-left: 40%; margin-top: -2.5%">Quantity</p>
+<p style="margin-left: 60%; margin-top: -2.6%">Price</p>
+    <p style="margin-left: 70%; margin-top: 2.5%">Total</p>
+    <p style="margin-left: 70%; margin-top: 2.5%">Tax</p>
+    <p style="margin-left: 70%; margin-top: 2.5%">Total Price</p>
 
-
+</div>
 
 
 
